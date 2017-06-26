@@ -2,4 +2,3 @@ Name: Leif Anderson
 Location: Dallas, Texas
 Occupation: Student at Coding Dojo
 Favorite Show: Star Trek
-Favorite Movie: Star Wars
